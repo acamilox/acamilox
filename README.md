@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hola, soy Andrés Camilo Camacho Labrador
 
-<!--
-**acamilox/acamilox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero de Sistemas | Backend & Cloud Computing
 
-Here are some ideas to get you started:
+Ingeniero de Sistemas enfocado en Backend y Cloud Computing, con experiencia en el desarrollo de lógica de servidor con Python, ecosistema JavaScript y bases de datos PostgreSQL. Competente en flujos de trabajo modernos con Git/GitHub y con conocimientos prácticos en despliegue de infraestructura en Azure. Trabajo en equipos multidisciplinarios con adaptabilidad al cambio y orientación a resultados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 💼 Experiencia Profesional
+
+**Ingeniero de Soporte y Desarrollo** — *Social Medical Data, Bogotá* | Dic 2024 – Actualidad
+- Diseñé un modelo optimizado para la Gestión de Incidentes de T.I, reduciendo los tiempos de respuesta.
+- Desarrollé e implementé un software para mesa de ayuda con JavaScript, TypeScript y PostgreSQL.
+- Resolución de incidencias nivel 1 y 2, promediando 35 tickets diarios.
+
+**Arquitectura TIC** — *Banco Agrario de Colombia, Bogotá* | May 2024 – Nov 2024
+- Contribuí al diseño e implementación de arquitecturas tecnológicas que mejoraron la eficiencia de sistemas de banca virtual en un 15%.
+- Evaluación continua de infraestructura tecnológica para mejorar disponibilidad y escalabilidad.
+
+---
+
+## 🎓 Formación
+
+- **Ingeniería de Sistemas** — Universidad Piloto Seccional del Alto Magdalena | 2020 – 2024
+- **Programa Especializado en Python** — Microsoft | Dic 2025 – Feb 2026 *(6 certificaciones)*
+- **Programa de Desarrollo Backend** — Meta | Jun 2024 – Sep 2024 *(3 certificaciones)*
+
+---
+
+## 🌱 Intereses
+
+- Automatización de procesos
+- Contribución Open Source
+- Cloud Architecture
+- Deportes de Alta Disciplina
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-camacholabrador)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acamicamacho@gmail.com)
+
+📍 Bogotá, Colombia &nbsp;|&nbsp; 🇬🇧 English B2
