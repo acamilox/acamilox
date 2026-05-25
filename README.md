@@ -48,6 +48,6 @@ Ingeniero de Sistemas con enfoque hacia el Backend, Cloud Computing y automatiza
 ---
 
 ## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-camilo-camacho-labrador-05b034246/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acamicamacho@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-camilo-camacho-labrador-05b034246/)
 
 📍 Bogotá, Colombia &nbsp;|&nbsp; 🇬🇧 English B2
