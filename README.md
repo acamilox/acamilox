@@ -2,7 +2,7 @@
 
 ### Ingeniero de Sistemas | Backend & Cloud Computing
 
-Ingeniero de Sistemas con enfoque hacia el Backend y el Cloud Computing, entusiasta por aprender este tipo de tecnologías, motivado por el aprendizaje continuo y experiencia dentro del ámbito laboral y profesional.
+Ingeniero de Sistemas con enfoque hacia el Backend, Cloud Computing y automatizaciones, entusiasta por aprender este tipo de tecnologías, motivado por el aprendizaje continuo y experiencia para un mayor crecimiento dentro de mi ámbito laboral y profesional.
 
 ---
 
