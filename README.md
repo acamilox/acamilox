@@ -1,8 +1,8 @@
-# Hola, soy Andrés Camilo Camacho Labrador
+# Andrés Camilo Camacho Labrador
 
 ### Ingeniero de Sistemas | Backend & Cloud Computing
 
-Ingeniero de Sistemas enfocado en Backend y Cloud Computing, con experiencia en el desarrollo de lógica de servidor con Python, ecosistema JavaScript y bases de datos PostgreSQL. Competente en flujos de trabajo modernos con Git/GitHub y con conocimientos prácticos en despliegue de infraestructura en Azure. Trabajo en equipos multidisciplinarios con adaptabilidad al cambio y orientación a resultados.
+Ingeniero de Sistemas con enfoque hacia el Backend y el Cloud Computing, entusiasta por aprender este tipo de tecnologías, motivado por el aprendizaje continuo y experiencia dentro del ámbito laboral y profesional.
 
 ---
 
