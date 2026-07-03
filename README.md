@@ -10,8 +10,10 @@ Ingeniero de Sistemas con enfoque en Backend, Cloud Computing y automatizaciones
 
 ## 📊 Actividad en GitHub
 
+**📈 Estadísticas generales**
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=acamilox&show_icons=true&theme=gruvbox&hide_border=true)
 
+**📊 Lenguajes más usados**
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=acamilox&layout=compact&theme=gruvbox&hide_border=true)
 
 ---
