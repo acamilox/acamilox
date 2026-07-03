@@ -10,11 +10,10 @@ Ingeniero de Sistemas con enfoque en Backend, Cloud Computing y automatizaciones
 
 ## 📊 Actividad en GitHub
 
-**📈 Estadísticas generales**
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=acamilox&show_icons=true&theme=gruvbox&hide_border=true)
-
-**📊 Lenguajes más usados**
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=acamilox&layout=compact&theme=gruvbox&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acamilox&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Estadísticas%20Generales" alt="Estadísticas" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acamilox&layout=compact&theme=gruvbox&hide_border=true&custom_title=Lenguajes%20más%20usados" alt="Lenguajes" width="48%" />
+</div>
 
 ---
 
@@ -35,24 +34,24 @@ Ingeniero de Sistemas con enfoque en Backend, Cloud Computing y automatizaciones
 
 ---
 
-## 💼 Experiencia
+## 💼 Experiencia Profesional
 
-**🛠️ Ingeniero de Soporte y Desarrollo** — *Social Medical Data* | Dic 2024 – Actualidad  
+**🛠️ Ingeniero de Soporte y Desarrollo** — *Social Medical Data, Bogotá* | Dic 2024 – Actualidad  
 - ✅ Diseñé modelo optimizado para Gestión de Incidentes T.I → reducción de tiempos de respuesta.  
 - 💻 Desarrollé software para mesa de ayuda con JS, TS y PostgreSQL.  
 - 🎯 Resolución de incidencias N1 y N2 → promedio de **35 tickets/día**.
 
-**🏦 Arquitectura TIC** — *Banco Agrario de Colombia* | May 2024 – Nov 2024  
+**🏦 Arquitectura TIC** — *Banco Agrario de Colombia, Bogotá* | May 2024 – Nov 2024  
 - ⚙️ Mejoré eficiencia de sistemas de banca virtual en un **15%**.  
 - 📊 Evaluación continua de infraestructura para disponibilidad y escalabilidad.
 
 ---
 
-## 🎓 Formación
+## 🎓 Formación Académica
 
-- **Ingeniería de Sistemas** — Universidad Piloto | 2020 – 2024  
-- 🐍 **Python Specialization** — Microsoft | Dic 2025 – Feb 2026 *(6 certs)*  
-- ☁️ **Backend Development** — Meta | Jun 2024 – Sep 2024 *(3 certs)*
+- **Ingeniería de Sistemas** — Universidad Piloto Seccional del Alto Magdalena | 2020 – 2024  
+- 🐍 **Programa Especializado en Python** — Microsoft | Dic 2025 – Feb 2026 *(6 certificaciones)*  
+- ☁️ **Programa de Desarrollo Backend** — Meta | Jun 2024 – Sep 2024 *(3 certificaciones)*
 
 ---
 
