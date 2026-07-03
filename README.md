@@ -4,13 +4,14 @@
 
 Ingeniero de Sistemas con enfoque en Backend, Cloud Computing y automatizaciones. Apasionado por el aprendizaje continuo y la innovación tecnológica.
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=acamilox.acamilox)
+![Visitas](https://komarev.com/ghpvc/?username=acamilox&color=blue&style=flat)
 
 ---
 
 ## 📊 Actividad en GitHub
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=acamilox&show_icons=true&theme=gruvbox&hide_border=true)
+
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=acamilox&layout=compact&theme=gruvbox&hide_border=true)
 
 ---
