@@ -27,7 +27,7 @@ Ingeniero de Sistemas con enfoque en Backend, Cloud Computing y automatizaciones
 
 ## 💼 Experiencia Profesional
 
-**🛠️ Ingeniero de Soporte y Desarrollo** — *Social Medical Data, Bogotá* | Dic 2024 – Actualidad  
+**🛠️ Ingeniero de Soporte y Desarrollo** — *Social Medical Data, Bogotá* | Dic 2024 – Jun 2026  
 - ✅ Diseñé modelo optimizado para Gestión de Incidentes T.I → reducción de tiempos de respuesta.  
 - 💻 Desarrollé software para mesa de ayuda con JS, TS y PostgreSQL.  
 - 🎯 Resolución de incidencias N1 y N2 → promedio de **35 tickets/día**.
