@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Andrés Camilo Camacho Labrador
+# Andrés Camilo Camacho Labrador
 
 ### 🚀 Ingeniero de Sistemas | Backend Developer | Python
 
