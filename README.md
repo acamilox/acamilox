@@ -1,128 +1,158 @@
+<div align="center">
+
 # Andrés Camilo Camacho Labrador
 
-### 🚀 Ingeniero de Sistemas | Backend Developer | Python Developer
+**Ingeniero de Sistemas | Backend Developer | Python Developer**
 
-Ingeniero de Sistemas con experiencia desarrollando APIs REST con Python y FastAPI, integración con PostgreSQL, automatización de procesos y construcción de aplicaciones backend escalables. Con conocimientos en Docker, Git, administración de Azure y buenas prácticas como SOLID y Clean Code.
+*Convierto procesos en APIs y datos en decisiones.*
 
-![Visitas](https://komarev.com/ghpvc/?username=acamilox&color=blue&style=flat)
+<a href="https://github.com/acamilox">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=800&color=009688&center=true&vCenter=true&width=680&lines=Backend+Developer+-+Python+%26+FastAPI;APIs+REST+%2B+PostgreSQL+%2B+Docker;Automatizaci%C3%B3n+e+Inteligencia+Artificial;Aprendiendo+%C3%A1gil%2C+construyendo+mejor" alt="Typing animation">
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/andr%C3%A9s-camilo-camacho-labrador-05b034246/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="https://github.com/acamilox"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
+<a href="mailto:acamicamacho@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=acamilox&color=009688&style=flat" alt="Profile views">
+
+</div>
+
+---
+
+## 👋 Sobre mí
+
+Ingeniero de Sistemas (Universidad Piloto de Colombia) con experiencia construyendo **APIs REST con Python y FastAPI**, integración con **PostgreSQL**, automatización de procesos y aplicaciones backend escalables. También con conocimientos en **Docker**, **Git**, administración de **Azure** y buenas prácticas como **SOLID** y **Clean Code**.
+
+Vengo del mundo del soporte y la mesa de ayuda: automatizar lo que otros veían como tareas manuales. Hoy me enfoco en backend, APIs y la combinación de **inteligencia artificial con automatización** para resolver problemas reales.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Lenguajes**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
 
-**Bases de Datos**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Diseño de BD](https://img.shields.io/badge/Dise%C3%B1o%20de%20BD-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![Optimización SQL](https://img.shields.io/badge/Optimizaci%C3%B3n%20SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Lenguajes y Backend**
 
-**Backend & APIs**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![POO](https://img.shields.io/badge/POO-5391FE?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,fastapi,sqlalchemy,pydantic,postgresql,mysql,mongodb,sqlite&perline=8" alt="Backend stack">
 
-**Cloud & DevOps**  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+**Cloud, DevOps y Herramientas**
 
-**Herramientas**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Azure Portal](https://img.shields.io/badge/Azure%20Portal-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,azure,github,githubactions,git,postman,linux,bash,vscode&perline=9" alt="DevOps stack">
+
+</div>
+
+#### Detalle técnico
+
+| Área | Tecnologías |
+|---|---|
+| **Lenguajes** | Python, SQL |
+| **Backend & APIs** | FastAPI, REST API, SQLAlchemy, Pydantic, JWT, POO |
+| **Bases de datos** | PostgreSQL, SQL Server, MariaDB, MongoDB, Diseño y optimización de BD |
+| **Cloud & DevOps** | Azure, Docker, Git, GitHub, GitHub Actions |
+| **Herramientas** | VS Code, Postman, Swagger, Azure Portal, Linux, Bash |
 
 ---
 
 ## 💼 Experiencia Profesional
 
-**🛠️ Ingeniero de Soporte y Desarrollo** — *Social Medical Data, Bogotá* | Dic 2024 – Jun 2026  
-- 💻 Implementé una plataforma web para la mesa de ayuda que automatizó el registro, seguimiento y cierre de incidencias, integrando tecnologías backend con **PostgreSQL**, procesando **35 tickets/día** con **92%** de resolución en primera línea.
-- 🗄️ Optimicé la trazabilidad y disponibilidad de la información de soporte mediante consultas **SQL optimizadas** y reestructuración del esquema de **PostgreSQL**, reduciendo los tiempos de consulta de históricos en un **30%**.
-- ⚡ Reduje los tiempos de respuesta en la gestión de incidentes en un **40%** mediante el diseño de un nuevo modelo operativo de soporte TIC (flujos de atención, priorización y escalamiento).
-- 🤝 Aceleré la resolución de incidencias complejas colaborando con equipos multidisciplinarios en sesiones de análisis técnico-funcional, aplicando **Scrum** con ciclos de entrega quincenales.
+**🛠️ Ingeniero de Soporte y Desarrollo** — *Social Medical Data, Bogotá* | Dic 2024 – Jun 2026
 
-**🏦 Practicante de Arquitectura TIC** — *Banco Agrario de Colombia, Bogotá* | May 2024 – Nov 2024  
-- ⚙️ Incrementé la eficiencia de la infraestructura tecnológica de banca virtual en un **15%** apoyando el diseño e implementación de arquitecturas TIC, garantizando disponibilidad, confiabilidad e integración de los servicios.
-- 🔍 Identifiqué **12 oportunidades** de mejora en escalabilidad y disponibilidad mediante el análisis de indicadores de infraestructura, métricas de rendimiento y patrones de uso.
+- Implementó una plataforma web para la mesa de ayuda que automatizó registro, seguimiento y cierre de incidencias, integrando tecnologías backend con **PostgreSQL**, procesando **35 tickets/día** con **92%** de resolución en primera línea.
+- Optimizó la trazabilidad y disponibilidad de la información de soporte mediante consultas **SQL optimizadas** y reestructuración del esquema de **PostgreSQL**, reduciendo los tiempos de consulta de históricos en un **30%**.
+- Reducción del **40%** en tiempos de respuesta de incidentes mediante un nuevo modelo operativo de soporte TIC (flujos de atención, priorización y escalamiento).
+- Aceleró la resolución de incidencias complejas colaborando con equipos multidisciplinarios en análisis técnico-funcional, aplicando **Scrum** con ciclos quincenales.
+
+**🏦 Practicante de Arquitectura TIC** — *Banco Agrario de Colombia, Bogotá* | May 2024 – Nov 2024
+
+- Incrementó en un **15%** la eficiencia de la infraestructura de banca virtual apoyando el diseño e implementación de arquitecturas TIC, garantizando disponibilidad, confiabilidad e integración de servicios.
+- Identificó **12 oportunidades** de mejora en escalabilidad y disponibilidad a partir del análisis de indicadores de infraestructura, métricas de rendimiento y patrones de uso.
 
 ---
 
-## 🚀 Proyectos Destacados
+## 📌 Proyectos Destacados
 
-[![Task Manager API](https://img.shields.io/badge/Task%20Manager%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/acamilox/Task-Manager-API)
-> API RESTful para la gestión de tareas con **FastAPI, SQLAlchemy, SQLite, Pydantic y Uvicorn**. CRUD completo con modelos relacionales, patrón de capas (models, schemas, crud, database), validación con Pydantic y documentación Swagger/OpenAPI.
-
-[![API de Autenticación con JWT](https://img.shields.io/badge/Auth%20JWT-FF6C37?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://github.com/acamilox/API-de-Autenticacion-con-JWT)
-> API RESTful de autenticación con **FastAPI, PostgreSQL, JWT, bcrypt y Docker**. Registro, inicio de sesión, control de acceso basado en roles (user/admin), JWT con expiración configurable y despliegue con Docker Compose.
-
-[![URL Shortener API](https://img.shields.io/badge/URL%20Shortener%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/acamilox/URL-Shortener-API)
-> API para acortar URLs con **FastAPI, SQLite, SQLAlchemy y Pydantic**. Códigos alfanuméricos únicos con `secrets`, redirección 301 automática y estadísticas de visitas.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/acamilox/Task-Manager-API"><strong>Task Manager API</strong></a><br>
+      <i>FastAPI · SQLAlchemy · SQLite · Pydantic · Uvicorn</i><br><br>
+      API RESTful de gestión de tareas con CRUD completo, modelos relacionales, patrón de capas, validación con Pydantic y documentación Swagger/OpenAPI.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/acamilox/API-de-Autenticacion-con-JWT"><strong>API de Autenticación con JWT</strong></a><br>
+      <i>FastAPI · PostgreSQL · JWT · bcrypt · Docker</i><br><br>
+      API de autenticación con registro, login, roles (user/admin), JWT con expiración configurable y despliegue con Docker Compose.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/acamilox/URL-Shortener-API"><strong>URL Shortener API</strong></a><br>
+      <i>FastAPI · SQLite · SQLAlchemy · Pydantic</i><br><br>
+      API para acortar URLs con códigos alfanuméricos únicos usando <code>secrets</code>, redirección 301 automática y estadísticas de visitas.
+    </td>
+    <td align="center" width="50%">
+      <em>Próximamente…</em><br><br>
+      Más proyectos en camino: automatización, IA y herramientas de productividad.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🏆 Logros Técnicos
 
-- Desarrollo de APIs REST con FastAPI documentadas con OpenAPI/Swagger.
-- Implementación de autenticación JWT con control de acceso basado en roles.
-- Contenerización de aplicaciones con Docker y Docker Compose.
-- Integración con PostgreSQL, SQLAlchemy y SQLite.
-- Configuración de CI/CD con GitHub Actions.
+- Desarrollo de APIs REST con **FastAPI** documentadas con OpenAPI/Swagger.
+- Implementación de **autenticación JWT** con control de acceso basado en roles.
+- Contenerización de aplicaciones con **Docker** y **Docker Compose**.
+- Integración con **PostgreSQL**, **SQLAlchemy** y **SQLite**.
+- Configuración de **CI/CD** con GitHub Actions.
 
 ---
 
-## 🎓 Formación
+## 📚 Formación
 
-- 🎓 **Ingeniería de Sistemas** — Universidad Piloto de Colombia, Girardot | 2020 – 2024
-- 🐍 **Programa Especializado en Python** — Microsoft (Coursera) | 6 cursos: Python Programming Fundamentals, Data Analysis and Visualization, Automation and Scripting, Web Development with Python, Advanced Python Development, Project Development in Python
-- 📚 **Cursos adicionales (Udemy):** Fundamentos de Microsoft Azure | Microsoft Azure Fundamentals AZ-900 | Ingeniería de Prompts Para la Vida Real | Curso OpenClaw: Crea Agentes IA Autónomos que Trabajen 24/7
-
----
-
-## 🏅 Certificaciones
-
-- 📜 **Google AI Essentials** — Fundamentos de inteligencia artificial, Machine Learning e IA Generativa  
-  [Verificar certificado](https://coursera.org/verify/specialization/PSSA1HXF22SE)
+- **Ingeniería de Sistemas** — Universidad Piloto de Colombia, Girardot | 2020 – 2024
+- **Programa Especializado en Python** — Microsoft (Coursera) · 6 cursos: fundamentos de Python, análisis y visualización de datos, automatización y scripting, desarrollo web, desarrollo avanzado y desarrollo de proyectos.
+- **Cursos adicionales (Udemy):** Fundamentos de Microsoft Azure | AZ-900 | Ingeniería de Prompts | Agentes IA autónomos.
 
 ---
 
-## 🌍 Idiomas
+## 🎓 Certificaciones
 
-- 🇨🇴 Español — Nativo
+- **Google AI Essentials** — Fundamentos de IA, Machine Learning e IA Generativa.
+- [Verificar certificado](https://coursera.org/verify/specialization/PSSA1HXF22SE)
+
+---
+
+## 🌎 Idiomas
+
+- 🇪🇸 Español — Nativo
 - 🇬🇧 Inglés — B2 (Intermedio)
 
 ---
 
-## 🌱 Intereses
+## 💡 Intereses
 
 - 🤖 Automatización de procesos e IA
-- 🌍 Contribución Open Source
+- 🌐 Contribución Open Source
 - ☁️ Cloud Architecture y DevOps
-- 🏃 Deportes de Alta Disciplina
+- 💪 Disciplina y crecimiento continuo
 
 ---
 
 ## 📫 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-camilo-camacho-labrador-05b034246/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/acamilox)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acamicamacho@gmail.com)
+- 📍 Bogotá, Colombia
+- 📞 +57 301 653 9723
+- 📧 acamicamacho@gmail.com
 
-📞 +57 301 653 9723 &nbsp;|&nbsp; 📍 Bogotá, Colombia
+<div align="center">
 
----
+*"El aprendizaje continuo es el combustible del crecimiento profesional."*
 
-⚡ *"El aprendizaje continuo es el combustible del crecimiento profesional."*
+</div>
