@@ -41,6 +41,7 @@ Vengo del mundo del soporte y la mesa de ayuda: automatizar lo que otros veían 
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mysql,mongodb,sqlite&perline=6" alt="Backend stack">
 
 <br>
+<br>
 
 **Cloud, DevOps y Herramientas**
 
