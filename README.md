@@ -43,9 +43,9 @@ Vengo del mundo del soporte y la mesa de ayuda: automatizar lo que otros veían 
 <br>
 <br>
 
-**Cloud, DevOps y Herramientas**
+**Cloud, DevOps y Herramientas de Automatización**
 
-<img src="https://skillicons.dev/icons?i=docker,azure,github,githubactions,git,postman,linux,bash,vscode&perline=9" alt="DevOps stack">
+<img src="https://skillicons.dev/icons?i=docker,azure,github,githubactions,git,postman,linux,bash,vscode&perline=10" alt="DevOps stack">&nbsp;<img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/pixel-lobster.svg" width="48" height="48" style="background:#242938;border-radius:16px;padding:10px" alt="OpenClaw">
 
 </div>
 
