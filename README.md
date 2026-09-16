@@ -38,7 +38,7 @@ Vengo del mundo del soporte y la mesa de ayuda: automatizar lo que otros veían 
 
 **Lenguajes y Backend**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,sqlalchemy,pydantic,postgresql,mysql,mongodb,sqlite&perline=8" alt="Backend stack">
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mysql,mongodb,sqlite&perline=6" alt="Backend stack">
 
 **Cloud, DevOps y Herramientas**
 
