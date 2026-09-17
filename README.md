@@ -38,7 +38,7 @@ Vengo del mundo del soporte y la mesa de ayuda: automatizar lo que otros veían 
 
 **Lenguajes y Backend**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mysql,mongodb,sqlite&perline=6" alt="Backend stack">
+<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,mongodb,sqlite&perline=5" alt="Backend stack">&nbsp;<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="48" height="48" style="background:#336791;border-radius:16px;padding:6px" alt="PostgreSQL">
 
 <br>
 <br>
