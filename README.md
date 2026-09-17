@@ -45,7 +45,7 @@ Vengo del mundo del soporte y la mesa de ayuda: automatizar lo que otros veían 
 
 **Cloud, DevOps y Herramientas de Automatización**
 
-<img src="https://skillicons.dev/icons?i=docker,azure,github,githubactions,git,postman,linux,bash,vscode&perline=10" alt="DevOps stack">&nbsp;<img src="https://raw.githubusercontent.com/openclaw/openclaw/main/ui/public/favicon.svg" width="48" height="48" style="background:#242938;border-radius:16px;padding:10px" alt="OpenClaw">
+<img src="https://skillicons.dev/icons?i=docker,azure,github,githubactions,git,postman,linux,bash,vscode&perline=10" alt="DevOps stack">&nbsp;<img src="https://raw.githubusercontent.com/openclaw/openclaw/main/ui/public/favicon.svg" width="48" height="48" style="background:#242938;border-radius:16px;padding:10px" alt="OpenClaw">&nbsp;<img src="https://raw.githubusercontent.com/anomalyco/opencode/dev/packages/console/app/src/asset/lander/opencode-logo-dark.svg" width="48" height="48" style="background:#242938;border-radius:16px;padding:10px" alt="OpenCode">&nbsp;<img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" style="background:#242938;border-radius:16px;padding:10px" alt="Claude">&nbsp;<img src="https://unpkg.com/@lobehub/icons-static-svg/icons/codex-color.svg" width="48" height="48" style="background:#242938;border-radius:16px;padding:10px" alt="Codex">
 
 </div>
 
@@ -57,7 +57,7 @@ Vengo del mundo del soporte y la mesa de ayuda: automatizar lo que otros veían 
 | **Backend & APIs** | FastAPI, REST API, SQLAlchemy, Pydantic, JWT, POO |
 | **Bases de datos** | PostgreSQL, SQL Server, MariaDB, MongoDB, Diseño y optimización de BD |
 | **Cloud & DevOps** | Azure, Docker, Git, GitHub, GitHub Actions |
-| **Automatización e IA** | OpenClaw, Python, automatización de procesos y agentes de IA |
+| **Automatización e IA** | OpenClaw, OpenCode, Claude, Codex, Python, automatización de procesos y agentes de IA |
 | **Herramientas** | VS Code, Postman, Swagger, Azure Portal, Linux, Bash |
 
 ---
