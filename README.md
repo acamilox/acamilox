@@ -7,7 +7,7 @@
 *Convierto procesos en APIs y datos en decisiones.*
 
 <a href="https://github.com/acamilox">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=800&color=009688&center=true&vCenter=true&width=680&lines=Backend+Developer+-+Python+%26+FastAPI;APIs+REST+%2B+PostgreSQL+%2B+Docker;Automatizaci%C3%B3n+e+Inteligencia+Artificial;Aprendiendo+%C3%A1gil%2C+construyendo+mejor" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=800&color=22C55E&center=true&vCenter=true&width=680&lines=Backend+Developer+-+Python+%26+FastAPI;APIs+REST+%2B+PostgreSQL+%2B+Docker;Automatizaci%C3%B3n+e+Inteligencia+Artificial;Aprendiendo+%C3%A1gil%2C+construyendo+mejor" alt="Typing animation">
 </a>
 
 <br>
