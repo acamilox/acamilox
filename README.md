@@ -38,7 +38,7 @@ Vengo del mundo del soporte y la mesa de ayuda: automatizar lo que otros veían 
 
 **Lenguajes y Backend**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,mongodb,sqlite&perline=5" alt="Backend stack">&nbsp;<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="48" height="48" style="background:#336791;border-radius:16px;padding:6px" alt="PostgreSQL">
+<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,mongodb,sqlite&perline=5" alt="Backend stack">&nbsp;<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="48" height="48" style="background:#336791;border-radius:16px;padding:6px" alt="PostgreSQL">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" style="background:#CC2927;border-radius:16px;padding:10px" alt="SQL Server">&nbsp;<img src="https://cdn.simpleicons.org/mariadb/4479A1" width="48" height="48" style="background:#012E67;border-radius:16px;padding:10px" alt="MariaDB">
 
 <br>
 <br>
