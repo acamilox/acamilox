@@ -24,7 +24,7 @@
 
 ---
 
-## 👋 Sobre mí
+## 🧑🏻‍💻 Sobre mí
 
 Ingeniero de Sistemas (Universidad Piloto de Colombia) con experiencia construyendo **APIs REST con Python y FastAPI**, integración con **PostgreSQL**, automatización de procesos y aplicaciones backend escalables. También con conocimientos en **Docker**, **Git**, administración de **Azure** y buenas prácticas como **SOLID** y **Clean Code**.
 
