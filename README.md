@@ -83,19 +83,19 @@ Vengo del mundo del soporte y la mesa de ayuda: automatizar lo que otros veían 
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/acamilox/Task-Manager-API"><strong>Task Manager API</strong></a><br>
+      <a href="https://github.com/acamilox/Mis-Proyectos-Python/tree/main/Task-Manager-API"><strong>Task Manager API</strong></a><br>
       <i>FastAPI · SQLAlchemy · SQLite · Pydantic · Uvicorn</i><br><br>
       API RESTful de gestión de tareas con CRUD completo, modelos relacionales, patrón de capas, validación con Pydantic y documentación Swagger/OpenAPI.
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/acamilox/API-de-Autenticacion-con-JWT"><strong>API de Autenticación con JWT</strong></a><br>
+      <a href="https://github.com/acamilox/Mis-Proyectos-Python/tree/main/API-de-Autenticacion-con-JWT"><strong>API de Autenticación con JWT</strong></a><br>
       <i>FastAPI · PostgreSQL · JWT · bcrypt · Docker</i><br><br>
       API de autenticación con registro, login, roles (user/admin), JWT con expiración configurable y despliegue con Docker Compose.
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/acamilox/URL-Shortener-API"><strong>URL Shortener API</strong></a><br>
+      <a href="https://github.com/acamilox/Mis-Proyectos-Python/tree/main/URL-Shortener-API"><strong>URL Shortener API</strong></a><br>
       <i>FastAPI · SQLite · SQLAlchemy · Pydantic</i><br><br>
       API para acortar URLs con códigos alfanuméricos únicos usando <code>secrets</code>, redirección 301 automática y estadísticas de visitas.
     </td>
